@@ -1,0 +1,10 @@
+vpn Setup for plra
+Connection name: DMM VPN
+Server name and Address: Plravpn.punjab-zameen.gov.pk
+vpn type: SSTP
+Type of Sigin-info: User Name and Password
+User Name: pindi.gheb.DMM
+Password: Virgo@8757
+
+PLRA Web Address:
+https://clrmis.punjab-zameen.gov.pk/
