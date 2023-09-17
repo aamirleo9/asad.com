@@ -1,0 +1,6 @@
+excel hilight active cell
+Private Sub Worksheet_SelectionChange(ByVal Target As Range)
+'Updateby Extendoffice
+Cells.Interior.ColorIndex = 0
+Target.EntireRow.Interior.ColorIndex = 8
+End Sub
